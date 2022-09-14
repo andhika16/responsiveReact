@@ -11,8 +11,8 @@ export default function Navbar() {
     <nav className="w-full bg-white sticky top-0 navbar shadow-md mb-10 z-auto">
       <div className="box-shadow hidden sm:flex md:flex-row justify-between">
         <div className="flex flex-row flex-wrap ">
-          <div className="max-w-[190px] max-h-[190px] m-0 sm:m-5 cursor-pointer ">
-            <img className="w-[100%] h-[100%]" src={googleWS} alt="google" />
+          <div className=" m-0 sm:m-5 cursor-pointer ">
+            <img className="w-[190px] h-[25px]" src={googleWS} alt="google" />
           </div>
           <div className="lg:mt-5 mt-0">
             <ul className="list-none font-inter font-normal flex flex-row justify-between">
