@@ -15,6 +15,11 @@ import admin from "../assets/admin.png";
 import endpoint from "../assets/apps_policy.png";
 import vault from "../assets/vault.png";
 import workInsight from "../assets/work_insights.png";
+import twitter from "../assets/twitter.png";
+import facebook from "../assets/facebook.png";
+import youtube from "../assets/youtube.png";
+import linkedin from "../assets/linkedin.png";
+import instagram from "../assets/instagram.png";
 
 export const listApp = [
   { id: 1, name: "jamboard", img: jamboard },
@@ -31,6 +36,15 @@ export const listApp = [
   { id: 12, name: "sheets", img: sheets },
   { id: 13, name: "App Script", img: appScript },
 ];
+
+export const sosmedIcon = [
+  { id: 1, name: "twitter", img: twitter },
+  { id: 2, name: "facebook", img: facebook },
+  { id: 3, name: "linkedin", img: linkedin },
+  { id: 4, name: "youtube", img: youtube },
+  { id: 5, name: "instagram", img: instagram },
+];
+
 export const secAndManage = [
   { id: 10, name: "admin", img: admin },
   { id: 11, name: "end point", img: endpoint },

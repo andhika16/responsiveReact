@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col md:flex-row px-5">
+    <div className="flex flex-col md:flex-row p-10 sm:p-16 items-center">
       <div className="mb-5">
         <h1 className="font-inter text-[2.9em] leading-[60px] text-gray-800">
           Do your best work, all in one place.

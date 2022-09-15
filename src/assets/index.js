@@ -11,8 +11,18 @@ import slides from "./slides.png";
 import docs from "./docs.png";
 import sheets from "./sheets.png";
 import appScript from "./appsScript.png";
+import twitter from "./twitter.png";
+import youtube from "./youtube.png";
+import linkedin from "./linkedin.png";
+import facebook from "./facebook.png";
+import instagram from "./instagram.png";
 
 export default {
+  twitter,
+  youtube,
+  linkedin,
+  facebook,
+  instagram,
   jamboard,
   keep,
   meet,
